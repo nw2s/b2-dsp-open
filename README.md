@@ -15,9 +15,12 @@ Open sourced hardware and software for the b2-dsp module
 
 ## Status
 
+[19-Nov-2016]
 A good portion of the hardware design is complete. The panel design is complete and most of the conponent selection is done. The panel board has a little bit of work with regards to spacing and vertical alignment, but is otherwise complete. The mainboard still has a bit of layout work to do to be able to fit everything in with a minimum of interference. There is still a decent amount of work there and prototyping to do. 
 
-[You can see what I'm probably working on in Jira](https://nw2sdevices.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=B2). Since this is a very small team, it doesn't get updated as often as it shoudld, but it will give you an idea of some of the recent accomplishments and near-future tasks. If you aren't familiar with a Kanban board, that is technically how I'm working through the tasks. 
+Software-wise, I'm primarily working through some issue with the AM57x with the TI Linux kernel and access to the DSP chips via OpenCL. Much of the controller/worker architecture is completed and there is support for a wide array of USB devices. I'm actively building out playable patches for some specific devices. 
+
+[You can see what I'm probably working on in Jira](https://nw2sdevices.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=B2). Since this is a very small team, it doesn't get updated as often as it shoudld, but it will give you an idea of some of the recent accomplishments and near-future goals. If you aren't familiar with a Kanban board, that is technically how I'm working through the tasks. 
 
 ## Licensing
 The nw2s::b2/dsp is an open source project. Both the hardware and the software are released as open-source. 
