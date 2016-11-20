@@ -3,7 +3,7 @@ Open sourced hardware and software for the b2-dsp module
 
 ## Important Links
 
-nw2s website
+[nw2s website](http://nw2s.net)
 
 [nw2s::b2/dsp Confluence](https://nw2sdevices.atlassian.net/wiki/display/NW2SB2DSP)
 
